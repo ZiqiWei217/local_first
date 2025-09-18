@@ -12,4 +12,4 @@ I am making readme better.
 
 I need a change to my personal branch.
 
-conflicts.
+Another change to my personal branch.
